@@ -1,10 +1,10 @@
 package com.linkedList;
 
-public class Node<E> {
+public class Node<T> {
 	
-	E data;
+	T data;
 	
-	Node<E> next;
+	Node<T> next;
 	
 
 }
